@@ -1,19 +1,19 @@
 **etherscan：**
 https://etherscan.io/
-![image](screetshop/etherScan.jpg)
+![image](screetshot/etherScan.jpg)
 
 **bscscan：**
 https://www.bscscan.com/
-![image](screetshop/BNB.jpg)
+![image](screetshot/BNB.jpg)
 
 **polygonscan：**
 https://polygonscan.com/
-![image](screetshop/polygon.jpg)
+![image](screetshot/polygon.jpg)
 
 **chainlist.org：**
 https://chainlist.org/zh
-![image](screetshop/chainlist.jpg)
+![image](screetshot/chainlist.jpg)
 
 **filecoinscan：**
 https://filscan.io/
-![image](screetshop/filecoinscan.jpg)
+![image](screetshot/filecoinscan.jpg)
