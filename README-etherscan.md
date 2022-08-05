@@ -13,7 +13,9 @@ Etherscan 是以太坊网络的区块链浏览器。该网站允许您搜索交�
 <h3>切换网络节点</h3>
 <div>1.鼠标悬浮</div>
 
-![image](etherscan-screenshot/page1.png)
+<p align="center">
+  <img src="./etherscan-screenshot/page1.png" width="720px">
+</p>
 
 2.我们可以切换到Ropsten Testnet，Kovan Testnet，Rinkeby Testnet，Goerli Testnet ...</br>
 3.选择Ropsten Testnet切换</br>
