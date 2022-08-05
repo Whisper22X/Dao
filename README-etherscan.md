@@ -1,15 +1,18 @@
 <h1 style="text-align: center;">etherscan使用介绍：</h1>
 
 ```python
-Etherscan 是以太坊网络的区块链浏览器。该网站允许您搜索交易、区块、钱包地址、智能合约和其他链上数据。它是最受欢迎的以太坊区块链浏览器之一，并且可以免费使用。
-提示：
-本次介绍仅在以太坊Testnet进行
-本次介绍的输入地址都是测试网中任意地址，仅做参考
+Etherscan 是以太坊网络的区块链浏览器。该网站允许您搜索交易、区块、钱包地址、智能合约和其他链上数据。
+它是最受欢迎的以太坊区块链浏览器之一，
+并且可以免费使用。
 ```
+>提示：
+>>本次介绍仅在以太坊Testnet进行
+>>本次介绍的输入地址都是测试网中任意地址，仅做参考
 
 下面介绍基本使用：
 切换网络节点
 <div>1.鼠标悬浮</div>
+
 ![image](etherscan-screenshot/page1.png)
 
 2.我们可以切换到Ropsten Testnet，Kovan Testnet，Rinkeby Testnet，Goerli Testnet ...</br>
