@@ -29,7 +29,7 @@ Etherscan 是以太坊网络的区块链浏览器。该网站允许您搜索交�
 ![image](etherscan-screenshot/page20.png)
 
 <h3>查询交易</h3></br>
-1.在搜索框输入查询：0x14aa05c4021ce95b469a13c1309fb50c5398807a1c546c5829b70ad0b79fd9b0
+1.在搜索框输入查询：0x14aa05c4021ce95b469a13c1309fb50c5398807a1c546c5829b70ad0b79fd9b0</br>
 
 ![image](etherscan-screen/page3.png)
 
@@ -38,7 +38,7 @@ Etherscan 是以太坊网络的区块链浏览器。该网站允许您搜索交�
 ![image](etherscan-screenshot/page4.png)
 
 
-<h3>查询合约<h3></br>
+<h3>查询合约</h3></br>
 1.在搜索框输入查询：0xc778417E063141139Fce010982780140Aa0cD5Ab</br>
 
 ![image](etherscan-screenshot/page5.png)
