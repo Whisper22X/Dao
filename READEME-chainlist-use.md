@@ -35,12 +35,12 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，可以�
 
 点击切换网络（这里是因为metamask已连接其他网络才有这个对话框）
 <p align="center">
-  <img src="./chainlist-screenshot/switchnetwork.jpg" width="720px">
+  <img src="./chainlist-screenshot/switchnetwork.jpg" width="320px">
 </p>
 
 已切换成功的metamask状态
 <p align="center">
-  <img src="./chainlist-screenshot/metamaskstatus.jpg" width="720px">
+  <img src="./chainlist-screenshot/metamaskstatus.jpg" width="320px">
 </p>
 
 <h2>3.通过名称搜索网络</h2>
