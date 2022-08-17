@@ -30,7 +30,7 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，可以�
 
 点击批准
 <p align="center">
-  <img src="./chainlist-screenshot/approve.jpg" width="720px">
+  <img src="./chainlist-screenshot/approve.jpg" width="320px">
 </p>
 
 点击切换网络（这里是因为metamask已连接其他网络才有这个对话框）
@@ -119,5 +119,5 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，可以�
 
 进入到Explorer页面，就可以查询到你的地址的详情，还可以进行转账和跳转到Etherscan中去
 <p align="center">
-  <img src="./chainlist-screenshot/Explorer.jpg" width="720px">
+  <img src="./chainlist-screenshot/explorer.jpg" width="720px">
 </p>
