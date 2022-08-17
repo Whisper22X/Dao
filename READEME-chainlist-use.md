@@ -72,7 +72,7 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，
   <img src="./chainlist-screenshot/clickupdown.jpg" width="720px">
 </p>
 
-查看网络状态：
+查看网络状态：<br/>
 🟢：表示正常<br/>
 🟡：表示不稳定<br/>
 🔴：表示断开<br/>
@@ -81,14 +81,15 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，
 </p>
 
 <h2>6.把RPC地址添加到IDE中进行操作</h2>
-（这里我们使用Black IDE进行添加自定义网络 [Black IDE](https://ide.black/)）</br>
+（这里我们使用Black IDE进行添加自定义网络）</br>
+[Black IDE](https://ide.black/)</br>
 
 复制Chainlist的RPC地址：https://rpc.ankr.com/avalanche_fuji （这里使用Avalanche测试网进行配置）
 <p align="center">
   <img src="./chainlist-screenshot/copyrpcaddress.jpg" width="720px">
 </p>
 
-进入 [Black IDE](https://ide.black/) 欢迎页
+进入 [Black IDE](https://ide.black/welcome) 欢迎页
 点击展开Network网络列表
 <p align="center">
   <img src="./chainlist-screenshot/networklist.jpg" width="720px">
