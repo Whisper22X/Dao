@@ -82,7 +82,7 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，
 
 <h2>6.把RPC地址添加到IDE中进行操作</h2>
 （这里我们使用Black IDE进行添加自定义网络）</br>
-[Black IDE](https://ide.black/)</br>
+https://ide.black/</br>
 
 复制Chainlist的RPC地址：https://rpc.ankr.com/avalanche_fuji （这里使用Avalanche测试网进行配置）
 <p align="center">
