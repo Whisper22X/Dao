@@ -1,7 +1,9 @@
 <h1 style="text-align: center;">Chainlist使用介绍：</h1>
 
 ```python
-Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，可以帮助你快速完成MetaMask、Coinbase等Web3钱包 的链标识/ChainID和网络标识/NetworkID的设置并接入正确的区块链网络.
+Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，
+可以帮助你快速完成MetaMask、Coinbase等Web3钱包 
+的链标识/ChainID和网络标识/NetworkID的设置并接入正确的区块链网络.
 ```
 >提示：
 >>本次介绍是作为初学者的使用介绍
@@ -79,7 +81,7 @@ Chainlist是一个社区维护的以太坊EVM兼容区块链信息库，可以�
 </p>
 
 <h2>6.把RPC地址添加到IDE中进行操作</h2>
-（这里我们使用Black IDE进行添加自定义网络 <a> https://ide.black/ </a>）</br>
+（这里我们使用Black IDE进行添加自定义网络 <a href="https://ide.black/"></a>）</br>
 
 复制Chainlist的RPC地址：https://rpc.ankr.com/avalanche_fuji （这里使用Avalanche测试网进行配置）
 <p align="center">
